@@ -9,6 +9,8 @@ html {
 }
 
 body {
+    background-color: #152642;
+    color: #f1f1f1;
     display: flex;
     align-items: center;
     justify-content: center;
